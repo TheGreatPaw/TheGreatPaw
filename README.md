@@ -1,4 +1,4 @@
-# Hi there, I'm Paw 👋
+# Hi there, I'm Hamad 👋
 
 ## Education
 - 📍 Mindanao State University - Main Campus
@@ -52,7 +52,7 @@ Features:
 ---
 
 ### 🤖 PREDICTING STUDENT EMPLOYABILITY USING MACHINE LEARNING BASED ON SOFT SKILLS ASSESSMENT
-This research manuscript, presented to the faculty at Mindanao State University, explores the relationship between a student's soft skills and their employability status. By utilizing a dataset of 2,982 students and applying educational data mining techniques, the sources aim to identify which specific traits—such as communication and mental alertness—most effectively predict whether a graduate will be classified as "Employable" or "Less Employable".
+This study explores the relationship between a student's soft skills and their employability status. By utilizing a dataset of 2,982 students and applying educational data mining techniques, the sources aim to identify which specific traits—such as communication and mental alertness—most effectively predict whether a graduate will be classified as "Employable" or "Less Employable".
 
 Features/Methods:
 - SEMMA Methodology: The study follows the SEMMA framework (Sample, Explore, Modify, Model, Assess), a structured data mining process developed by SAS to guide the analysis from data selection to model evaluation
@@ -63,7 +63,16 @@ Features/Methods:
 - Performance Metrics: Model effectiveness is rigorously evaluated using a confusion matrix and standard metrics such as accuracy, precision, recall, and F1 score
 
 
-### 🤖
+### 🤖 Predicting Mental Health Risk Levels Using Sociodemographic and Mental Disorder Factors: A Classification-Based Assessment Model
+This study aims to predict mental health risk levels (categorized as low, medium, or high) by analyzing basic demographic factors (age and gender) alongside psychological scores for stress, depression, and anxiety. Using a machine learning approach, the research identifies patterns to highlight vulnerable groups and support early intervention strategies
+
+Features/Methods:
+- Methodological Framework: The study utilizes the SEMMA framework (Sample, Explore, Modify, Model, Assess), a data mining methodology developed by SAS to guide the analytical process
+- Large-Scale Dataset: The model was trained and tested on a dataset of 9,000 participants, which was balanced by gender (4,500 men and 4,500 women) with ages ranging from 18 to 65
+- Predictive Modeling: Researchers employed a Decision Tree classifier, which achieved a stable and reliable accuracy of 82.4% on the test dataset
+- Feature Importance: The analysis found that depression and anxiety scores were the strongest predictors of mental health risk, while age, gender, and stress levels showed a weak or non-existent relationship
+- Comprehensive Preprocessing: The data underwent specific cleaning steps, including label encoding for categorical variables (gender and risk levels) and standardization for numeric variables to ensure features were on a similar range for the model
+- Evaluation Metrics: Beyond simple accuracy, the study evaluated the model using precision, recall, F1-score, and confusion matrices to ensure balanced and consistent predictions
 
 
 ---

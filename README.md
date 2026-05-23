@@ -1,16 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Paw 👋
 
 ## Education
+📍 Mindanao State University - Main Campus
 🎓 Bachelor of Science in Information Systems (BSIS)  
-📍 :contentReference[oaicite:0]{index=0}  
 📚 3rd Year Student  
-💡 Academic Interests: Data Analytics, Machine Learning, Database Management, Systems Development  
 
 ---
 
 ## Skills
-💻 Java Development  
-📊 Aspiring Data Analyst  
+📊 Aspiring Data Analyst
+💻 Idea Conceptualization and Pitching
 🎨 Graphic Design  
 🖼️ Layout Design  
 🗄️ Database Management  
@@ -27,14 +26,16 @@
 
 ## Projects
 
-### 📚 Book Inventory System
-A Java Swing and MySQL-based system for managing borrowed book records and inventory.
+### 📚 TrashTrack 
+TrashTrack is a Smart Waste Collection App designed to improve waste management in local communities by providing real-time alerts and location-based reminders to ensure timely garbage disposal
 
 Features:
-- Add, update, and delete records
-- Search functionality
-- Database integration
-- User-friendly interface
+- **Real-time collection schedules** that notify residents of the exact time and day for garbage pickup in their area
+- Location-based notifications and alerts to help users stay informed about waste management activities nearby
+- Waste segregation reminders to guide households on how to properly separate recyclables from non-recyclable
+- Community updates to keep residents informed about broader waste management initiatives and schedules
+- User-friendly interface featuring a clean dashboard designed for easy navigation by households
+- Real-time waste tracking utilizing Google Maps API technology to monitor collection efforts
 
 ---
 

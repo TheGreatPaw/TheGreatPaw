@@ -8,12 +8,12 @@
 ---
 
 ## Skills
-📊 Aspiring Data Analyst
-💻 Idea Conceptualization and Pitching
-🎨 Graphic Design  
-🖼️ Layout Design  
-🗄️ Database Management  
-📑 Research & Documentation  
+- 📊 Aspiring Data Analyst
+- 💻 Idea Conceptualization and Pitching
+- 🎨 Graphic Design  
+- 🖼️ Layout Design  
+- 🗄️ Database Management  
+- 📑 Research & Documentation  
 
 ---
 
@@ -30,7 +30,7 @@
 TrashTrack is a Smart Waste Collection App designed to improve waste management in local communities by providing real-time alerts and location-based reminders to ensure timely garbage disposal
 
 Features:
-- **Real-time collection schedules** that notify residents of the exact time and day for garbage pickup in their area
+- Real-time collection schedules that notify residents of the exact time and day for garbage pickup in their area
 - Location-based notifications and alerts to help users stay informed about waste management activities nearby
 - Waste segregation reminders to guide households on how to properly separate recyclables from non-recyclable
 - Community updates to keep residents informed about broader waste management initiatives and schedules

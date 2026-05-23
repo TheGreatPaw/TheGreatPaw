@@ -62,6 +62,7 @@ Features/Methods:
 - Data Preprocessing Techniques: The sources detail a preprocessing phase that includes removing duplicates, handling missing values, encoding the target variable into binary form, and applying Min-Max normalization for feature scaling
 - Performance Metrics: Model effectiveness is rigorously evaluated using a confusion matrix and standard metrics such as accuracy, precision, recall, and F1 score
 
+###
 
 ### 🤖 Predicting Mental Health Risk Levels Using Sociodemographic and Mental Disorder Factors: A Classification-Based Assessment Model
 This study aims to predict mental health risk levels (categorized as low, medium, or high) by analyzing basic demographic factors (age and gender) alongside psychological scores for stress, depression, and anxiety. Using a machine learning approach, the research identifies patterns to highlight vulnerable groups and support early intervention strategies

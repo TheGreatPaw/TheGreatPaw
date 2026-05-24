@@ -79,4 +79,4 @@ Features/Methods:
 ---
 
 ## Connect With Me
-🔗 LinkedIn: paw
+🔗 LinkedIn: www.linkedin.com/in/paw-tech
